@@ -1,0 +1,17 @@
+https://tree.nathanfriend.io/?s=(%27options!(%27fancy!true~fullPath!false~trailingSlash!true~rootDot!false)~5(%275%27game-test*AoR*43__main__3main3level_dat847*22level_017*doc6test6.gitignore*LICENSE*README.md%27)~version!%271%27)*%5Cn22%20%2037842__init__5source!6s*2...*7.py8%20*2%018765432*
+
+game-test/
+├── AoR/
+│   ├── __init__.py 
+│   ├── __main__.py 
+│   ├── main.py 
+│   └── level_dat /
+│       ├── __init__.py
+│       └── level_01.py
+├── docs/
+│   └── ...
+├── tests/
+│   └── ...
+├── .gitignore
+├── LICENSE
+└── README.md

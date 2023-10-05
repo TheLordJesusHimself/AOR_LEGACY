@@ -1,0 +1,8 @@
+OPTION "all the other options are trash im decapitate myself now"
+
+- one file for the whole level
+- this holds the map and functions for the whole level
+	- ie how to connect each room etc (or smth idk how to word here)
+- each room in the map then has a function that is ran when you enter or other actions are triggered
+
+
